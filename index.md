@@ -96,7 +96,21 @@ Freddy facts:
 
 ![js](https://i.pinimg.com/originals/fe/ab/1f/feab1f3b49ade709bbc2f5ae8dcf8dac.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+WTBT facts:
+
+- We all know what happened with the blockbuster pre-draft trade between WTBT and the Boobie Boys, so lets check in on the opening day trade with Pacman.
+    - WTBT received Thielen (WR13) and Robert Tonyan (TE30, dropped to free agency) in exchange for Blake Bortles (QB70, dropped to free agency by both Pacman and the Green Bay Packers) and Amari Cooper (WR15)
+    - So basically this trade was Thielen for Cooper which is a diffence of less than 3 points so far
+- Dawson Knox (TE3) was a killer free agency pickup. Kudos
+
+Jigsaw facts (not a lot of interesting facts so instead I'll list some of the craziest traps he's come up with):
+- Reverse Bear Trap-- a modified bear trap inserted into a victim's mouth. When it activates, it will tear their head apart at the jaw ![image](https://user-images.githubusercontent.com/1719695/136674874-215c58b4-487e-4fb9-94a0-439af52d8df0.png)
+- Shotgun Carousel-- 6 people rotate on a merry-go-round, facing a loaded shotgun one at a time. a seventh has to choose who to kill ![image](https://user-images.githubusercontent.com/1719695/136674917-537135cd-7ca2-49c9-82c4-f643c4dc7d0a.png)
+- Needle Pit-- A key is hidden at the bottom of a giant pit of hypodermic needles ![image](https://user-images.githubusercontent.com/1719695/136674930-95bf74ce-3339-4462-b116-84236dd6d2be.png)
+
+### 7. Pacman Jones - Leatherface
+
+
 
 ```markdown
 Syntax highlighted code block

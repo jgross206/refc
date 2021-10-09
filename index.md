@@ -36,7 +36,26 @@ Michael facts:
 
 ![image](https://user-images.githubusercontent.com/1719695/136673019-e1f5532e-8391-402f-bb8c-43b30da382f7.png)
 
-### 3. Team ryanvytlacil
+### 3. Team ryanvytlacil - Chucky
+
+!(chucky)[https://media.giphy.com/media/iHDNMXmgZZyPS/giphy.gif]
+
+!(c)[https://media.giphy.com/media/Vd2vo6pveclm0YyT29/giphy.gif]
+
+Vytlacil facts:
+ — "The stack" is responsible for over 50% of Ryan's total points this season 
+ — Out of four games played so far, Tyreek has one game with 2.9 and one game with 4.7 points. Nevertheless, he's the WR2 
+
+Chucky facts: — Charles Lee Ray was a human serial killer who transferred his soul into a doll as he lay dying in the street 
+— Chucky was a puppet in the first film which caused a problem for wide shots because there was no way to hide the puppeteers. They solved this problem by hiring 3'4" Ed Gale and building a set with all the props 30% larger than normal. They even set him on fire: 
+
+![Fire](https://images.pristineauction.com/110/1107803/share_1546632606—Ed—Gale—Signed—Child—s—Play-8x10—Photo—Inscribed—Chucky—Beckett—00A—PristineAuction.com.jpg) — Another time Chucky was played by the main kid actor's sister, which is kind of unsettling: 
+
+![Sister](https://static3.srcdn.com/wordpress/wp—content/uploads/2019/10/Alex—Vincents—Sister—as—Chucky—in—Childs—Play.jpeg?q=50&fit=crop&w=740&h=369&dpr=1.5)
+
+### 4. Hermione Granger — The Thing 63 64 ![thing](
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

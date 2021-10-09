@@ -38,15 +38,20 @@ Michael facts:
 
 ### 3. Team ryanvytlacil - Chucky
 
-!(chucky)[https://media.giphy.com/media/iHDNMXmgZZyPS/giphy.gif]
+![c](https://media.giphy.com/media/iHDNMXmgZZyPS/giphy.gif)
 
-!(c)[https://media.giphy.com/media/Vd2vo6pveclm0YyT29/giphy.gif]
+![c](https://media.giphy.com/media/Vd2vo6pveclm0YyT29/giphy.gif)
 
 Vytlacil facts:
+
  — "The stack" is responsible for over 50% of Ryan's total points this season 
+ 
  — Out of four games played so far, Tyreek has one game with 2.9 and one game with 4.7 points. Nevertheless, he's the WR2 
 
-Chucky facts: — Charles Lee Ray was a human serial killer who transferred his soul into a doll as he lay dying in the street 
+Chucky facts:
+
+— Charles Lee Ray was a human serial killer who transferred his soul into a doll as he lay dying in the street 
+
 — Chucky was a puppet in the first film which caused a problem for wide shots because there was no way to hide the puppeteers. They solved this problem by hiring 3'4" Ed Gale and building a set with all the props 30% larger than normal. They even set him on fire: 
 
 ![image](https://user-images.githubusercontent.com/1719695/136673138-e0e1fc97-b8bd-46ad-946d-6519b253ad6f.png)
@@ -71,6 +76,25 @@ The Thing facts:
 ### 5. CoolTime FunkyFlex - Freddie Krueger
 
 ![freddy](https://giffiles.alphacoders.com/259/25930.gif)
+
+CTTF facts:
+- In 9th place with a 1-3 record, cool time is only 7.02 away from leading the league in total points
+- Despite his nickname, Ryan Tannehill (QB20) has not been very useful. Derrick Henry has scored more points.
+- Speaking of Henry (RB1) he's outscored Ekeler (RB2) by over 20 points so far
+
+Freddy facts:
+- Freddy Krueger started out as the Springwood Slasher, a child murderer burned to death by a mob of victim's parents. In the original strip he was a child molester but Wes Craven changed it because of news events.
+- Compared to the strong silent type Jason and Michael Myers, Freddy is a goofy chatterbox. Some famous one-liners include
+    - "Wanna suck face?"
+    - "Welcome to prime time, bitch!"
+    - "I'm your boyfriend now, Nancy."
+
+
+![image](https://user-images.githubusercontent.com/1719695/136674285-50b2e553-5c26-4796-9f67-7f89286d8434.png)
+
+### 6. WillTime BigTime - Jigsaw
+
+![js](https://i.pinimg.com/originals/fe/ab/1f/feab1f3b49ade709bbc2f5ae8dcf8dac.gif)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

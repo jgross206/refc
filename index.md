@@ -62,9 +62,15 @@ Hermione Facts:
 - Matt Gay, K5 going into this week, is only rostered in 43% of Sleeper leagues
 
 The Thing facts:
-- The scene where the doctor's forearms are 
+- There are no women in the entire movie
+- The scene where Norris' chest opens up and eats the doctor's arms off was filmed using a double amputee stunt double with prosthetic arms.
+
+![image](https://user-images.githubusercontent.com/1719695/136674022-eefd9835-9797-4f0b-bfca-73b853b1eca3.png)
 
 
+### 5. CoolTime FunkyFlex - Freddie Krueger
+
+![freddy](https://giffiles.alphacoders.com/259/25930.gif)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

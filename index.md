@@ -141,7 +141,26 @@ Ghostface facts:
 ![hl](https://thumbs.gfycat.com/AlertSmoggyBluebird-size_restricted.gif)
 
 Palpetine facts:
--
+- Deebo Samuel (WR4) at pick 8.5 is looking very nice right about now.
+- Gronkowski is still the TE2 with only 2.5 games played. If he can get over this injury that 10th round pick KCP spent on him will be a bargain.
+
+Lecter facts:
+- Lecter is based on Alfredo Ballí Treviño, a doctor who the author interviewed a few years before he was accused of serial murder.
+- In the books, Lecter has a rare medical condition that causes him to have six fingers on one hand. This was lampshaded in the movie when an x-ray reveals that he amputated the extra digit.
+
+### 10. Team USA - Patrick Bateman
+
+![p](https://c.tenor.com/EFoo9AxzVU0AAAAC/patrick-bateman-american-psycho.gif)
+
+USA facts:
+- Cordarelle Patterson (RB3, waiver pickup) has already produced more fantasy points through 4 games than he did in 16 games last year.
+
+Patrick Bateman facts:
+- In the book Bateman kills a businessman named Paul Owen. In the movie, the name was changed to Paul Allen for no apparent reason, which led people to believe the character was based on the late Seahawks owner.
+
+### 11. Team Measurables - Babadook
+
+![b](https://c.tenor.com/bR1T3Dz4npYAAAAC/babadook-crawl.gif)
 
 
 ```markdown

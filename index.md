@@ -110,7 +110,12 @@ Jigsaw facts (not a lot of interesting facts so instead I'll list some of the cr
 
 ### 7. Pacman Jones - Leatherface
 
+![lt](https://media2.giphy.com/media/3o7aTuy3b4TwuUSUzm/giphy.gif)
 
+Pacman facts:
+- We already covered his trade with WTBT, so lets check on the pre-season swap with CTTF
+    - Matt gave up Chris Carson (RB21) and received James Robinson (RB11)
+    - Carson was having a solid season until his injury. He hasn't been put on IR so looks likely he could come back in the next couple weeks to help out Geno. Jury's still out on this one.
 
 ```markdown
 Syntax highlighted code block

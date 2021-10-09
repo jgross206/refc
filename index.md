@@ -117,6 +117,33 @@ Pacman facts:
     - Matt gave up Chris Carson (RB21) and received James Robinson (RB11)
     - Carson was having a solid season until his injury. He hasn't been put on IR so looks likely he could come back in the next couple weeks to help out Geno. Jury's still out on this one.
 
+Leatherface facts:
+- Leatherface is a quintessential family man. Everything he does he does for his family, in particular his older brother who beats and abuses him.
+- Leatherface was inspired by real life serial killer Ed Gein (aka the Plainfield Ghoul), who wore the faces of his victims as masks.
+- The director tried hard to get a PG rating, which is why there's very little blood in the movie.
+
+![image](https://user-images.githubusercontent.com/1719695/136675234-25514dfe-424c-44f4-8627-b20cd9c1cc78.png)
+
+### 8. Suey Lagoon - Ghostface
+
+![scream](https://media3.giphy.com/media/l2YWoE1MjEPo9sG3K/giphy.gif)
+
+Suey facts:
+- Jalen Hurts (QB5) was a nice pick at 9.9, the 12th QB selected
+
+
+Ghostface facts:
+- 9 different people have killed while wearing the costume throughout the franchise. Surprising names among the list include Timothy Olyphant and Tyga. Yes, that Tyga.
+- Despite the fact that, in-universe, ghostface masks are widely available and many of the killers are "copycats", they all share certain mannerisms and an unexplained supernatural durability.
+
+### 9. Kam Chancellor Palpetine - Hannibal Lecter
+
+![hl](https://thumbs.gfycat.com/AlertSmoggyBluebird-size_restricted.gif)
+
+Palpetine facts:
+-
+
+
 ```markdown
 Syntax highlighted code block
 

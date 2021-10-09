@@ -49,11 +49,20 @@ Vytlacil facts:
 Chucky facts: — Charles Lee Ray was a human serial killer who transferred his soul into a doll as he lay dying in the street 
 — Chucky was a puppet in the first film which caused a problem for wide shots because there was no way to hide the puppeteers. They solved this problem by hiring 3'4" Ed Gale and building a set with all the props 30% larger than normal. They even set him on fire: 
 
-![Fire](https://images.pristineauction.com/110/1107803/share_1546632606—Ed—Gale—Signed—Child—s—Play-8x10—Photo—Inscribed—Chucky—Beckett—00A—PristineAuction.com.jpg) — Another time Chucky was played by the main kid actor's sister, which is kind of unsettling: 
+![image](https://user-images.githubusercontent.com/1719695/136673138-e0e1fc97-b8bd-46ad-946d-6519b253ad6f.png)
+— Another time Chucky was played by the main kid actor's sister, which is kind of unsettling: 
+![image](https://user-images.githubusercontent.com/1719695/136673155-8d1376a1-62d3-4a15-9ca1-ddc067f76242.png)
 
-![Sister](https://static3.srcdn.com/wordpress/wp—content/uploads/2019/10/Alex—Vincents—Sister—as—Chucky—in—Childs—Play.jpeg?q=50&fit=crop&w=740&h=369&dpr=1.5)
+### 4. Hermione Granger — The Thing
 
-### 4. Hermione Granger — The Thing 63 64 ![thing](
+![thing](https://media0.giphy.com/media/IhNzvlaWhuOE1ZwMoE/giphy.gif)
+
+Hermione Facts:
+- Darrel Henderson, the 26th RB selected, is currently RB6
+- Matt Gay, K5 going into this week, is only rostered in 43% of Sleeper leagues
+
+The Thing facts:
+- The scene where the doctor's forearms are 
 
 
 

@@ -1,10 +1,29 @@
-## Welcome to GitHub Pages
+## Rich Eisen Fan Club Power Rankings Week 5
 
-You can use the [editor on GitHub](https://github.com/jgross206/refc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We're into the fifth week of the season. The Seahawks are bad and Russell Wilson has been spending more time than usual in hospitals. Things are getting spooky in Seattle so in honor of the season, the theme of this week's power rankings is...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🎃 **HORROR MOVIE VILLAINS AND MONSTERS** 🎃
 
-### Markdown
+### 1. Sandro the Necromancer - Jason Voorhees
+
+![Jason](https://user-images.githubusercontent.com/1719695/136672783-8fc4ba4c-2948-40cb-ade4-4f4e88ad523d.png)
+
+Sandro facts:
+- After week 1 Sandro made a trade with Suey that netted him the WR1 and RB10 in exchange for the WR20 and the RB8 (who just got placed on IR)
+- Sandro picked up the WR5 DJ Moore with pick 4.10, making him the 18th WR selected.
+
+Jason facts:
+- Jason is almost completely nonverbal. Other than a few painful grunts after he got stabbed, his only vocalization came in *Jason Takes Manhattan* where he cries out "Mommy, please don't let me drown!" in a child's voice before being submerged in toxic waste
+- They've showed Jason's face a few times over the years:
+
+1980:
+![image](https://user-images.githubusercontent.com/1719695/136672887-35f32ec3-366d-4116-9786-795f4113ad1b.png)
+
+1988:
+![image](https://user-images.githubusercontent.com/1719695/136672900-49220d81-6481-4f24-a52a-8861af3fb4e9.png)
+
+### 2. Team Hathaway - Michael Myers
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

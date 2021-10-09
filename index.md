@@ -24,6 +24,19 @@ Jason facts:
 
 ### 2. Team Hathaway - Michael Myers
 
+Hathaway facts:
+- Tyler Lockett is currently WR6 but his scores over the last 3 games? 3.1, 2.4, 5.7
+- The second best performing RB on this team is Kenneth Gainwell (RB27)
+
+Michael facts:
+- John Carpenter initially conceived the character as being inhuman, a personification of pure evil. When Rob Zombie rebooted the franchise in 2007, he decided to give Michael more of a backstory, including multiple childhood flashbacks where he speaks. When Carpenter was consulting for the 2018 sequel he took some shots at Mr. Zombie: "I thought that he took away the mystique of the story by explaining too much about Michael Myers. I don't care about that."
+- They've shown his face a few times and he just kind of looks like a dude:
+
+![image](https://user-images.githubusercontent.com/1719695/136673007-fdd98a75-6c87-464f-9520-ccef3a58d67b.png)
+
+![image](https://user-images.githubusercontent.com/1719695/136673019-e1f5532e-8391-402f-bb8c-43b30da382f7.png)
+
+### 3. Team ryanvytlacil
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

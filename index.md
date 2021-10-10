@@ -33,19 +33,16 @@ Jason facts:
 Happy to see a rookie making noise already. That Mahomes/Tyreek stack can carry you to the promised land.
 
 Vytlacil facts:
+- "The stack" is responsible for over 50% of Ryan's total points this season
+- Out of four games played so far, Tyreek has one game with 2.9 and one game with 4.7 points. Nevertheless, he's the WR2
 
- — "The stack" is responsible for over 50% of Ryan's total points this season 
- 
- — Out of four games played so far, Tyreek has one game with 2.9 and one game with 4.7 points. Nevertheless, he's the WR2 
 
 Chucky facts:
-
-— Charles Lee Ray was a human serial killer who transferred his soul into a doll as he lay dying in the street 
-
-— Chucky was a puppet in the first film which caused a problem for wide shots because there was no way to hide the puppeteers. They solved this problem by hiring 3'4" Ed Gale and building a set with all the props 30% larger than normal. They even set him on fire: 
+- Charles Lee Ray was a human serial killer who transferred his soul into a doll as he lay dying in the street
+- Chucky was a puppet in the first film which caused a problem for wide shots because there was no way to hide the puppeteers. They solved this problem by hiring 3'4" Ed Gale and building a set with all the props 30% larger than normal. They even set him on fire: 
 
 ![image](https://user-images.githubusercontent.com/1719695/136673138-e0e1fc97-b8bd-46ad-946d-6519b253ad6f.png)
-— Another time Chucky was played by the main kid actor's sister, which is kind of unsettling: 
+- Another time Chucky was played by the main kid actor's sister, which is kind of unsettling: 
 ![image](https://user-images.githubusercontent.com/1719695/136673155-8d1376a1-62d3-4a15-9ca1-ddc067f76242.png)
 
 ### 3. Team Hathaway - Michael Myers

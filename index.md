@@ -162,6 +162,31 @@ Patrick Bateman facts:
 
 ![b](https://c.tenor.com/bR1T3Dz4npYAAAAC/babadook-crawl.gif)
 
+Measurables facts:
+- Darnold (waiver pickup) is QB7 and has already score more than 2/3 the points he did all of last season
+
+Babadook facts:
+- The Babadook is not real in-universe. It is a manifestation of the imagination and trauma of the main character.
+- William Friedkin, director of *The Exorcist*, said this about the film: "I've never seen a more terrifying film. It will scare the hell out of you as it did me."
+
+![image](https://user-images.githubusercontent.com/1719695/136676987-bbc3b2cc-f0b6-442f-bddf-cea26aafb1b4.png)
+
+### 12. BoobieBoys - Ghostface
+
+![s](https://c.tenor.com/LXfETEPaQ9QAAAAC/whats-up-scary.gif)
+
+BoobieBoys facts:
+- BoobieBoys is the most active player in the league in terms of # of transactions
+- Lets check in on BB's many trades this season:
+    - Gave up Najee Harris (RB13) to Sandro for Jamaal Williams (RB23) and Ja'Marr Chase (WR8).  I think I'd say BB won this one.
+    - Gave up Calvin Ridley (WR35, injured) to Sandro for Ty'Son Williams (RB36). Calling this one a wash.
+
+Scary Movie facts:
+- The script was a combination of two projects which apparently were being worked on independently and simultaneously: "Last Summer I Screamed Because Halloween Fell On Friday The 13th" written by the Wayans brothers and Phil Beauman; and "Scream If You Know What I Did Last Halloween" by Jason Friedberg and Aaron Seltzer. A real Newton/Leibniz situation
+- The original tagline for the first movie was "No Shame. No Mercy. No sequel."
+
+
+
 
 ```markdown
 Syntax highlighted code block

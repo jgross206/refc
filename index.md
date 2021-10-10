@@ -50,6 +50,8 @@ Chucky facts:
 
 ### 3. Team Hathaway - Michael Myers
 
+![image](https://c.tenor.com/7razvLnYvC4AAAAC/scary-threat.gif)
+
 Gotta respect 4-0, but there are some holes in this team.
 
 Hathaway facts:
